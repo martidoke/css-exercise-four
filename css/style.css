@@ -55,7 +55,7 @@ body {
 
 /* two columns */
 @media screen and (min-width: 575px){
-   div {
+   .preview {
     margin: 1%;
     width: 48%;
   }
@@ -67,7 +67,7 @@ body {
 }
 /* four columns */
 @media screen and (min-width: 991px){
-   div {
+   .preview {
     margin: 1%;
     width: 21%;
   }
